@@ -1,0 +1,26 @@
+1/8
+
+- 192.168.1.10 서버에 root/apps/unioneinc/work/yjlee 개별 폴더 생성 후 git clone
+- vscode로 remote ssh 설치
+- PORT 3000 에서 3203으로 변경
+
+1/9
+- 로컬에 개인 브랜치 생성
+- M24365-FRONT-RSBUILD Group 위주 구조 및 흐름 파악
+- apps/Group
+    Group.jsx
+    page.jsx
+- app/Group/create
+    GroupCreate.jsx
+- app/Group/member
+    GroupMember.jsx
+
+
+1/10
+- /app/hooks/useGroup.js
+    useGroup.js 와 Group.jsx 흐름 파악
+
+[예정]
+- (분리) 피그마 숙지
+- expo document 숙지
+- M24365-APP-M 구조 파악
